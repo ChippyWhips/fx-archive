@@ -1,0 +1,1527 @@
+<section id="2:1305" name="Template designs" x="-565" y="-2829" width="4196" height="6231">
+  <frame id="2:250" name="Glossary" x="2840" y="100" width="1256" height="5997">
+    <frame id="2:251" name="Body" x="0" y="0" width="1256" height="6030.90234375">
+      <frame id="2:782" name="Heading 1:margin" x="37.810298919677734" y="125.04900360107422" width="1180.390625" height="221.04901123046875">
+        <frame id="2:253" name="Heading 1" x="0" y="109.04900360107422" width="1180.390625" height="112">
+          <text id="2:254" name="Glossary" x="277.6953125" y="0" width="625" height="112" />
+        </frame>
+      </frame>
+      <frame id="2:783" name="Navigation - Jump to a letter:margin" x="37.810298919677734" y="346.0980224609375" width="1180.390625" height="160.04901123046875">
+        <frame id="2:256" name="Navigation - Jump to a letter" x="0" y="109.04900360107422" width="1180.390625" height="51">
+          <frame id="2:257" name="Link" x="0" y="17" width="9" height="17">
+            <text id="2:258" name="A" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:260" name="Link" x="25" y="17" width="9" height="17">
+            <text id="2:261" name="C" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:262" name="Link" x="50" y="17" width="9" height="17">
+            <text id="2:263" name="E" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:264" name="Link" x="75" y="17" width="9" height="17">
+            <text id="2:265" name="F" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:266" name="Link" x="100" y="17" width="9" height="17">
+            <text id="2:267" name="H" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:268" name="Link" x="125" y="17" width="9" height="17">
+            <text id="2:269" name="M" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:270" name="Link" x="150" y="17" width="9" height="17">
+            <text id="2:271" name="O" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:272" name="Link" x="175" y="17" width="9" height="17">
+            <text id="2:273" name="P" x="0" y="0" width="9" height="17" />
+          </frame>
+          <frame id="2:274" name="Link" x="200" y="17" width="9" height="17">
+            <text id="2:275" name="R" x="0" y="0" width="9" height="17" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:784" name="Section:margin" x="37.810298919677734" y="506.14703369140625" width="1180.390625" height="427.80682373046875">
+        <frame id="2:276" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="302.7578125">
+          <frame id="2:277" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:278" name="A" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:317" name="List:margin" x="0" y="16" width="1180.390625" height="286.7578125">
+            <frame id="2:281" name="List Item" x="0" y="16" width="1180.390625" height="270.7578125">
+              <frame id="2:282" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:283" name="ASCII art" x="0" y="0" width="81" height="22" />
+              </frame>
+              <frame id="2:285" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:286" name="Paragraph" x="0" y="0" width="575.2943115234375" height="51">
+                  <text id="2:287" name="An image resampled to a coarse grid, with each cel" x="0" y="0" width="576" height="51" />
+                </frame>
+              </frame>
+              <frame id="2:289" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:290" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:291" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:292" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:294" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:295" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:296" name="text mode rendering" x="0" y="0" width="165" height="19" />
+                    </frame>
+                    <frame id="2:298" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:299" name="ANSI art" x="0" y="0" width="70" height="19" />
+                    </frame>
+                    <frame id="2:300" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:301" name="character mosaic" x="0" y="0" width="139" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:302" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:303" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:304" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:305" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:306" name="Sampling and mosaic" x="0" y="0" width="165" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:307" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:308" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:309" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:310" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:311" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:312" name="Pixelation" x="0" y="0" width="87" height="19" />
+                    </frame>
+                    <frame id="2:313" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:314" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:315" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:316" name="Posterisation" x="0" y="0" width="113" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:785" name="Section:margin" x="37.810298919677734" y="933.953857421875" width="1180.390625" height="391.41619873046875">
+        <frame id="2:318" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="266.3671875">
+          <frame id="2:319" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:320" name="C" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:350" name="List:margin" x="0" y="16" width="1180.390625" height="250.3671875">
+            <frame id="2:322" name="List Item" x="0" y="16" width="1180.390625" height="234.3671875">
+              <frame id="2:323" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:324" name="Chromatic aberration" x="0" y="0" width="193" height="22" />
+              </frame>
+              <frame id="2:325" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:326" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:327" name="It offsets the red, green and blue channels slight" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:328" name="Container" x="907.6569213867188" y="25" width="272.75" height="190">
+                <frame id="2:329" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:330" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:331" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:332" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:333" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:334" name="RGB split" x="0" y="0" width="78" height="19" />
+                    </frame>
+                    <frame id="2:335" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:336" name="colour fringing" x="0" y="0" width="130" height="19" />
+                    </frame>
+                    <frame id="2:337" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:338" name="colour shift" x="0" y="0" width="104" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:339" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:340" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:341" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:342" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:343" name="Optical and lens" x="0" y="0" width="139" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:344" name="Container" x="0" y="150" width="272.75" height="40">
+                  <frame id="2:345" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:346" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:347" name="List" x="0" y="21" width="272.75" height="19">
+                    <text id="2:349" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:786" name="Section:margin" x="37.810298919677734" y="1325.3701171875" width="1180.390625" height="409.61102294921875">
+        <frame id="2:351" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="284.56201171875">
+          <frame id="2:352" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:353" name="E" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:385" name="List:margin" x="0" y="16" width="1180.390625" height="268.56201171875">
+            <frame id="2:355" name="List Item" x="0" y="16" width="1180.390625" height="252.56199645996094">
+              <frame id="2:356" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:357" name="Error-diffusion dithering" x="0" y="0" width="217" height="22" />
+              </frame>
+              <frame id="2:358" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:359" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:360" name="It quantises each pixel in turn and hands whatever" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:361" name="Container" x="907.6569213867188" y="25" width="272.75" height="209">
+                <frame id="2:362" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:363" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:364" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:365" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:366" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:367" name="Floyd-Steinberg dithering" x="0" y="0" width="217" height="19" />
+                    </frame>
+                    <frame id="2:368" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:369" name="Atkinson dithering" x="0" y="0" width="156" height="19" />
+                    </frame>
+                    <frame id="2:370" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:371" name="diffusion dither" x="0" y="0" width="139" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:372" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:373" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:374" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:375" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:376" name="Dithering and quantisation" x="0" y="0" width="226" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:377" name="Container" x="0" y="150" width="272.75" height="59">
+                  <frame id="2:378" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:379" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:380" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:381" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:382" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:383" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:384" name="Posterisation" x="0" y="0" width="113" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:787" name="Section:margin" x="37.810298919677734" y="1734.981201171875" width="1180.390625" height="680.3688354492188">
+        <frame id="2:386" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="555.31982421875">
+          <frame id="2:387" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:388" name="F" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:389" name="List" x="0" y="16" width="1180.390625" height="539.31982421875">
+            <frame id="2:390" name="List Item" x="0" y="16" width="1180.390625" height="252.56199645996094">
+              <frame id="2:391" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:392" name="Film grain" x="0" y="0" width="90" height="22" />
+              </frame>
+              <frame id="2:393" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:394" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:395" name="Fine random noise laid over the image on its own g" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:396" name="Container" x="907.6569213867188" y="25" width="272.75" height="209">
+                <frame id="2:397" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:398" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:399" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:400" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:401" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:402" name="grain" x="0" y="0" width="44" height="19" />
+                    </frame>
+                    <frame id="2:403" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:404" name="film noise" x="0" y="0" width="87" height="19" />
+                    </frame>
+                    <frame id="2:405" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:406" name="stock texture" x="0" y="0" width="113" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:407" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:408" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:409" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:410" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:411" name="Optical and lens" x="0" y="0" width="139" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:412" name="Container" x="0" y="150" width="272.75" height="59">
+                  <frame id="2:413" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:414" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:415" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:416" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:417" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                    </frame>
+                    <frame id="2:418" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:419" name="Error-diffusion dithering" x="0" y="0" width="217" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:420" name="List Item" x="0" y="268.56201171875" width="1180.390625" height="270.7578125">
+              <frame id="2:421" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:422" name="Fluted glass" x="0" y="0" width="113" height="22" />
+              </frame>
+              <frame id="2:423" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:424" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:425" name="An image seen through a surface of parallel ribs, " x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:426" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:427" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:428" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:429" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:430" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:431" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:432" name="reeded glass" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:433" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:434" name="ribbed glass" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:435" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:436" name="lenticular distortion" x="0" y="0" width="182" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:437" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:438" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:439" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:440" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:441" name="Distortion" x="0" y="0" width="87" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:442" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:443" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:444" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:445" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:446" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:447" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                    </frame>
+                    <frame id="2:448" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:449" name="Moire" x="0" y="0" width="44" height="19" />
+                    </frame>
+                    <frame id="2:450" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:451" name="Pixelation" x="0" y="0" width="87" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:788" name="Section:margin" x="37.810298919677734" y="2415.35009765625" width="1180.390625" height="698.5646362304688">
+        <frame id="2:453" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="573.515625">
+          <frame id="2:454" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:455" name="H" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:456" name="List" x="0" y="16" width="1180.390625" height="557.515625">
+            <frame id="2:457" name="List Item" x="0" y="16" width="1180.390625" height="270.7578125">
+              <frame id="2:458" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:459" name="Halftone" x="0" y="0" width="81" height="22" />
+              </frame>
+              <frame id="2:460" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:461" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:462" name="Continuous tone reproduced with a regular grid of " x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:463" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:464" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:465" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:466" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:467" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:468" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:469" name="screening" x="0" y="0" width="78" height="19" />
+                    </frame>
+                    <frame id="2:470" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:471" name="dot screen" x="0" y="0" width="87" height="19" />
+                    </frame>
+                    <frame id="2:472" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:473" name="AM screening" x="0" y="0" width="104" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:474" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:475" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:476" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:477" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:478" name="Print and screen" x="0" y="0" width="139" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:479" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:480" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:481" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:482" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:483" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:484" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:485" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:486" name="Moire" x="0" y="0" width="44" height="19" />
+                    </frame>
+                    <frame id="2:487" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:488" name="Error-diffusion dithering" x="0" y="0" width="217" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:489" name="List Item" x="0" y="286.7578125" width="1180.390625" height="270.7578125">
+              <frame id="2:490" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:491" name="Height-map relief" x="0" y="0" width="159" height="22" />
+              </frame>
+              <frame id="2:492" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:493" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:494" name="A flat greyscale field read as height, lit from an" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:495" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:496" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:497" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:498" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:499" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:500" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:501" name="bump mapping" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:502" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:503" name="emboss" x="0" y="0" width="52" height="19" />
+                    </frame>
+                    <frame id="2:504" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:505" name="normal mapping" x="0" y="0" width="122" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:506" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:507" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:508" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:509" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:510" name="Relief and dimensionality" x="0" y="0" width="217" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:511" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:512" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:513" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:514" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:515" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:516" name="Raymarched metaballs" x="0" y="0" width="174" height="19" />
+                    </frame>
+                    <frame id="2:517" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:518" name="Film grain" x="0" y="0" width="87" height="19" />
+                    </frame>
+                    <frame id="2:519" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:520" name="Moire" x="0" y="0" width="44" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:789" name="Section:margin" x="37.810298919677734" y="3113.914794921875" width="1180.390625" height="969.3224487304688">
+        <frame id="2:522" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="844.2734375">
+          <frame id="2:523" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:524" name="M" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:525" name="List" x="0" y="16" width="1180.390625" height="828.2734375">
+            <frame id="2:526" name="List Item" x="0" y="16" width="1180.390625" height="270.7578125">
+              <frame id="2:527" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:528" name="Moire" x="0" y="0" width="52" height="22" />
+              </frame>
+              <frame id="2:529" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:530" name="Paragraph" x="0" y="0" width="575.2943115234375" height="51">
+                  <text id="2:531" name="Two regular patterns laid over each other produce " x="0" y="0" width="576" height="51" />
+                </frame>
+              </frame>
+              <frame id="2:532" name="Container" x="907.6569213867188" y="25" width="272.75" height="227">
+                <frame id="2:533" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:534" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:535" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:536" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:537" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:538" name="moire pattern" x="0" y="0" width="113" height="19" />
+                    </frame>
+                    <frame id="2:539" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:540" name="interference pattern" x="0" y="0" width="174" height="19" />
+                    </frame>
+                    <frame id="2:541" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:542" name="beat pattern" x="0" y="0" width="104" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:543" name="Container" x="0" y="94" width="272.75" height="58">
+                  <frame id="2:544" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:545" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:546" name="Paragraph" x="0" y="21" width="272.75" height="37">
+                    <text id="2:547" name="Periodic structures and interference" x="0" y="0" width="273" height="37" />
+                  </frame>
+                </frame>
+                <frame id="2:548" name="Container" x="0" y="168" width="272.75" height="59">
+                  <frame id="2:549" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:550" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:551" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:552" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:553" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:554" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:555" name="Pixelation" x="0" y="0" width="87" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:556" name="List Item" x="0" y="286.7578125" width="1180.390625" height="270.7578125">
+              <frame id="2:557" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:558" name="Motion blur" x="0" y="0" width="104" height="22" />
+              </frame>
+              <frame id="2:559" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:560" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:561" name="The smear a moving subject leaves because a frame " x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:562" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:563" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:564" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:565" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:566" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:567" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:568" name="shutter blur" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:569" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:570" name="accumulation blur" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:571" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:572" name="exposure smear" x="0" y="0" width="122" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:573" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:574" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:575" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:576" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:577" name="Blur" x="0" y="0" width="35" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:578" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:579" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:580" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:581" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:582" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:583" name="Film grain" x="0" y="0" width="87" height="19" />
+                    </frame>
+                    <frame id="2:584" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:585" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                    </frame>
+                    <frame id="2:586" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:587" name="Particle systems" x="0" y="0" width="139" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:588" name="List Item" x="0" y="557.515625" width="1180.390625" height="270.7578125">
+              <frame id="2:589" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:590" name="Multiply and screen" x="0" y="0" width="178" height="22" />
+              </frame>
+              <frame id="2:591" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:592" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:593" name="Two layers combined by arithmetic rather than by s" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:594" name="Container" x="907.6569213867188" y="25" width="272.75" height="228">
+                <frame id="2:595" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:596" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:597" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:598" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:599" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:600" name="blend modes" x="0" y="0" width="96" height="19" />
+                    </frame>
+                    <frame id="2:601" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:602" name="layer modes" x="0" y="0" width="96" height="19" />
+                    </frame>
+                    <frame id="2:603" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:604" name="compositing operators" x="0" y="0" width="182" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:605" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:606" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:607" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:608" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:609" name="Compositing and blend modes" x="0" y="0" width="234" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:610" name="Container" x="0" y="150" width="272.75" height="78">
+                  <frame id="2:611" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:612" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:613" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:614" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:615" name="Posterisation" x="0" y="0" width="113" height="19" />
+                    </frame>
+                    <frame id="2:616" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:617" name="Halftone" x="0" y="0" width="70" height="19" />
+                    </frame>
+                    <frame id="2:618" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:619" name="Film grain" x="0" y="0" width="87" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:790" name="Section:margin" x="37.810298919677734" y="4083.2373046875" width="1180.390625" height="391.41619873046875">
+        <frame id="2:621" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="266.3671875">
+          <frame id="2:622" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:623" name="O" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:653" name="List:margin" x="0" y="16" width="1180.390625" height="250.3671875">
+            <frame id="2:625" name="List Item" x="0" y="16" width="1180.390625" height="234.3671875">
+              <frame id="2:626" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:627" name="Ordered dithering" x="0" y="0" width="159" height="22" />
+              </frame>
+              <frame id="2:628" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:629" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:630" name="It fakes extra tones by comparing each pixel again" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:631" name="Container" x="907.6569213867188" y="25" width="272.75" height="190">
+                <frame id="2:632" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:633" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:634" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:635" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:636" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:637" name="Bayer dithering" x="0" y="0" width="130" height="19" />
+                    </frame>
+                    <frame id="2:638" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:639" name="patterned dithering" x="0" y="0" width="165" height="19" />
+                    </frame>
+                    <frame id="2:640" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:641" name="halftone dithering" x="0" y="0" width="156" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:642" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:643" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:644" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:645" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:646" name="Dithering and quantisation" x="0" y="0" width="226" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:647" name="Container" x="0" y="150" width="272.75" height="40">
+                  <frame id="2:648" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:649" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:650" name="List" x="0" y="21" width="272.75" height="19">
+                    <text id="2:652" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:791" name="Section:margin" x="37.810298919677734" y="4474.6533203125" width="1180.390625" height="896.5402221679688">
+        <frame id="2:654" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="771.4912109375">
+          <frame id="2:655" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:656" name="P" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:657" name="List" x="0" y="16" width="1180.390625" height="755.4912109375">
+            <frame id="2:658" name="List Item" x="0" y="16" width="1180.390625" height="234.3671875">
+              <frame id="2:659" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:660" name="Particle systems" x="0" y="0" width="152" height="22" />
+              </frame>
+              <frame id="2:661" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:662" name="Paragraph" x="0" y="0" width="575.2943115234375" height="51">
+                  <text id="2:663" name="Thousands of simple points, each following the sam" x="0" y="0" width="576" height="51" />
+                </frame>
+              </frame>
+              <frame id="2:664" name="Container" x="907.6569213867188" y="25" width="272.75" height="190">
+                <frame id="2:665" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:666" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:667" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:668" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:669" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:670" name="particles" x="0" y="0" width="78" height="19" />
+                    </frame>
+                    <frame id="2:671" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:672" name="emitters" x="0" y="0" width="70" height="19" />
+                    </frame>
+                    <frame id="2:673" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:674" name="point clouds in motion" x="0" y="0" width="191" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:675" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:676" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:677" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:678" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:679" name="3D and particles" x="0" y="0" width="139" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:680" name="Container" x="0" y="150" width="272.75" height="40">
+                  <frame id="2:681" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:682" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:683" name="List" x="0" y="21" width="272.75" height="19">
+                    <text id="2:685" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:686" name="List Item" x="0" y="250.3671875" width="1180.390625" height="252.56199645996094">
+              <frame id="2:687" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:688" name="Pixelation" x="0" y="0" width="92" height="22" />
+              </frame>
+              <frame id="2:689" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:690" name="Paragraph" x="0" y="0" width="575.2943115234375" height="51">
+                  <text id="2:691" name="It averages the image over a coarse grid and draws" x="0" y="0" width="576" height="51" />
+                </frame>
+              </frame>
+              <frame id="2:692" name="Container" x="907.6569213867188" y="25" width="272.75" height="209">
+                <frame id="2:693" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:694" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:695" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:696" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:697" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:698" name="mosaic" x="0" y="0" width="52" height="19" />
+                    </frame>
+                    <frame id="2:699" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:700" name="pixelisation" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:701" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:702" name="blocking" x="0" y="0" width="70" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:703" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:704" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:705" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:706" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:707" name="Sampling and mosaic" x="0" y="0" width="165" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:708" name="Container" x="0" y="150" width="272.75" height="59">
+                  <frame id="2:709" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:710" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:711" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:712" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:713" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:714" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:715" name="Posterisation" x="0" y="0" width="113" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:716" name="List Item" x="0" y="502.92919921875" width="1180.390625" height="252.56199645996094">
+              <frame id="2:717" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:718" name="Posterisation" x="0" y="0" width="122" height="22" />
+              </frame>
+              <frame id="2:719" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="50.578125">
+                <frame id="2:720" name="Paragraph" x="0" y="0" width="575.2943115234375" height="51">
+                  <text id="2:721" name="It reduces a smooth gradient to a small number of " x="0" y="0" width="576" height="51" />
+                </frame>
+              </frame>
+              <frame id="2:722" name="Container" x="907.6569213867188" y="25" width="272.75" height="209">
+                <frame id="2:723" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:724" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:725" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:726" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:727" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:728" name="posterization" x="0" y="0" width="113" height="19" />
+                    </frame>
+                    <frame id="2:729" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:730" name="tone banding" x="0" y="0" width="104" height="19" />
+                    </frame>
+                    <frame id="2:731" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:732" name="level reduction" x="0" y="0" width="130" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:733" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:734" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:735" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:736" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:737" name="Dithering and quantisation" x="0" y="0" width="226" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:738" name="Container" x="0" y="150" width="272.75" height="59">
+                  <frame id="2:739" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:740" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:741" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:742" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:743" name="Ordered dithering" x="0" y="0" width="148" height="19" />
+                    </frame>
+                    <frame id="2:744" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:745" name="Error-diffusion dithering" x="0" y="0" width="217" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:792" name="Section:margin" x="37.810298919677734" y="5371.193359375" width="1180.390625" height="534.6600341796875">
+        <frame id="2:747" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="284.56201171875">
+          <frame id="2:748" name="Heading 2" x="0" y="0" width="1180.390625" height="16">
+            <text id="2:749" name="R" x="0" y="0" width="9" height="16" />
+          </frame>
+          <frame id="2:781" name="List:margin" x="0" y="16" width="1180.390625" height="268.56201171875">
+            <frame id="2:751" name="List Item" x="0" y="16" width="1180.390625" height="252.56199645996094">
+              <frame id="2:752" name="Heading 3" x="-0.000091552734375" y="25" width="272.7421875" height="21.3984375">
+                <text id="2:753" name="Raymarched metaballs" x="0" y="0" width="211" height="22" />
+              </frame>
+              <frame id="2:754" name="Container" x="302.55230712890625" y="25" width="575.2943115234375" height="75.8671875">
+                <frame id="2:755" name="Paragraph" x="0" y="0" width="575.2943115234375" height="76">
+                  <text id="2:756" name="Spheres defined as a distance field rather than as" x="0" y="0" width="576" height="76" />
+                </frame>
+              </frame>
+              <frame id="2:757" name="Container" x="907.6569213867188" y="25" width="272.75" height="209">
+                <frame id="2:758" name="Container" x="0" y="0" width="272.75" height="78">
+                  <frame id="2:759" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:760" name="Also called" x="0" y="0" width="100" height="17" />
+                  </frame>
+                  <frame id="2:761" name="List" x="0" y="21" width="272.75" height="57">
+                    <frame id="2:762" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:763" name="blobby objects" x="0" y="0" width="122" height="19" />
+                    </frame>
+                    <frame id="2:764" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:765" name="isosurfaces" x="0" y="0" width="96" height="19" />
+                    </frame>
+                    <frame id="2:766" name="List Item" x="0" y="38" width="272.75" height="19">
+                      <text id="2:767" name="signed distance field blending" x="0" y="0" width="260" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:768" name="Container" x="0" y="94" width="272.75" height="40">
+                  <frame id="2:769" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:770" name="Collection" x="0" y="0" width="93" height="17" />
+                  </frame>
+                  <frame id="2:771" name="Paragraph" x="0" y="21" width="272.75" height="19">
+                    <text id="2:772" name="3D and particles" x="0" y="0" width="139" height="19" />
+                  </frame>
+                </frame>
+                <frame id="2:773" name="Container" x="0" y="150" width="272.75" height="59">
+                  <frame id="2:774" name="Text" x="0" y="0" width="272.75" height="17">
+                    <text id="2:775" name="Related" x="0" y="0" width="65" height="17" />
+                  </frame>
+                  <frame id="2:776" name="List" x="0" y="21" width="272.75" height="38">
+                    <frame id="2:777" name="List Item" x="0" y="0" width="272.75" height="19">
+                      <text id="2:778" name="Particle systems" x="0" y="0" width="139" height="19" />
+                    </frame>
+                    <frame id="2:779" name="List Item" x="0" y="19" width="272.75" height="19">
+                      <text id="2:780" name="Chromatic aberration" x="0" y="0" width="174" height="19" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2:793" name="Container" x="1074.109375" y="16" width="166.6171875" height="38">
+      <frame id="2:794" name="Button" x="24" y="12" width="56" height="14">
+        <frame id="2:795" name="Text" x="0" y="5" width="4" height="4" />
+        <text id="2:796" name="Light" x="12" y="0" width="44" height="14" />
+      </frame>
+      <frame id="2:798" name="Button" x="96" y="12" width="46.6171875" height="14">
+        <text id="2:799" name="Dark" x="0" y="0" width="35" height="14" />
+      </frame>
+    </frame>
+    <frame id="2:800" name="Link" x="561.5" y="16" width="133" height="40">
+      <frame id="2:801" name="Icon" x="24" y="12" width="16" height="16" />
+      <text id="2:803" name="Archive" x="48" y="13" width="61" height="14" />
+    </frame>
+  </frame>
+  <frame id="2:805" name="Index" x="100" y="100" width="1256" height="2442">
+    <frame id="2:806" name="Body" x="0" y="0" width="1256" height="2459.151611328125">
+      <frame id="2:808" name="Heading 1" x="37.810298919677734" y="125.04900360107422" width="1180.390625" height="114">
+        <text id="2:809" name="FX Archive" x="459.1953125" y="0" width="262" height="114" />
+      </frame>
+      <frame id="2:811" name="Paragraph" x="37.810298919677734" y="239.04901123046875" width="1180.390625" height="35.0004997253418">
+        <text id="2:812" name="Glossary" x="555.1953125" y="16.000499725341797" width="70" height="19" />
+      </frame>
+      <frame id="2:1043" name="Container:margin" x="37.810298919677734" y="274.04949951171875" width="1180.390625" height="217.43963623046875">
+        <frame id="2:814" name="Container" x="0" y="109.04900360107422" width="1180.390625" height="108.390625">
+          <frame id="2:815" name="Container" x="0" y="0" width="207.703125" height="51.296875">
+            <frame id="2:816" name="Label" x="0" y="0" width="207.703125" height="17">
+              <text id="2:817" name="Search" x="0" y="0" width="60" height="17" />
+            </frame>
+            <frame id="2:819" name="Search Input" x="0" y="25" width="207.703125" height="26.296875">
+              <text id="2:820" name="Name or synonym" x="2" y="2.6484375" width="203.703125" height="17" />
+            </frame>
+          </frame>
+          <frame id="2:821" name="Container" x="239.703125" y="0" width="613.5703125" height="83.390625">
+            <frame id="2:822" name="Text" x="0" y="0" width="613.5703125" height="17">
+              <text id="2:823" name="Collection" x="0" y="0" width="93" height="17" />
+            </frame>
+            <frame id="2:824" name="Container" x="0" y="25" width="613.5703125" height="58.390625">
+              <frame id="2:825" name="Radio Button" x="0" y="0" width="18" height="17">
+                <text id="2:826" name="All" x="0" y="0" width="18" height="17" />
+              </frame>
+              <frame id="2:828" name="Radio Button" x="33.3046875" y="0" width="171" height="17">
+                <text id="2:829" name="Dithering and quantisation" x="0" y="0" width="171" height="17" />
+              </frame>
+              <frame id="2:830" name="Radio Button" x="219.796875" y="0" width="106" height="17">
+                <text id="2:831" name="Optical and lens" x="0" y="0" width="106" height="17" />
+              </frame>
+              <frame id="2:832" name="Radio Button" x="340.953125" y="0" width="108" height="17">
+                <text id="2:833" name="3D and particles" x="0" y="0" width="108" height="17" />
+              </frame>
+              <frame id="2:834" name="Radio Button" x="463.9765625" y="0" width="139" height="17">
+                <text id="2:835" name="Sampling and mosaic" x="0" y="0" width="139" height="17" />
+              </frame>
+              <frame id="2:836" name="Radio Button" x="0" y="20.796875" width="234" height="17">
+                <text id="2:837" name="Periodic structures and interference" x="0" y="0" width="234" height="17" />
+              </frame>
+              <frame id="2:838" name="Radio Button" x="249.0078125" y="20.796875" width="163" height="17">
+                <text id="2:839" name="Relief and dimensionality" x="0" y="0" width="163" height="17" />
+              </frame>
+              <frame id="2:840" name="Radio Button" x="427.5078125" y="20.796875" width="107" height="17">
+                <text id="2:841" name="Print and screen" x="0" y="0" width="107" height="17" />
+              </frame>
+              <frame id="2:842" name="Radio Button" x="549.5234375" y="20.796875" width="64" height="17">
+                <text id="2:843" name="Distortion" x="0" y="0" width="64" height="17" />
+              </frame>
+              <frame id="2:844" name="Radio Button" x="0" y="41.59375" width="197" height="17">
+                <text id="2:845" name="Compositing and blend modes" x="0" y="0" width="197" height="17" />
+              </frame>
+              <frame id="2:846" name="Radio Button" x="212.3359375" y="41.59375" width="27" height="17">
+                <text id="2:847" name="Blur" x="0" y="0" width="27" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:848" name="Container" x="885.2734375" y="0" width="155" height="42">
+            <frame id="2:849" name="Text" x="0" y="0" width="155" height="17">
+              <text id="2:850" name="Show" x="0" y="0" width="44" height="17" />
+            </frame>
+            <frame id="2:851" name="Container" x="0" y="25" width="155" height="17">
+              <frame id="2:852" name="Radio Button" x="0" y="0" width="70" height="17">
+                <text id="2:853" name="Everything" x="0" y="0" width="70" height="17" />
+              </frame>
+              <frame id="2:854" name="Radio Button" x="86" y="0" width="69" height="17">
+                <text id="2:855" name="Favourites" x="0" y="0" width="69" height="17" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1044" name="List:margin" x="37.810298919677734" y="491.4891357421875" width="1180.390625" height="1599.5645751953125">
+        <frame id="2:856" name="List" x="0" y="125.04900360107422" width="1180.390625" height="1474.515625">
+          <frame id="2:857" name="List Item" x="-0.000091552734375" y="0.000244140625" width="272.7421875" height="287.4375">
+            <frame id="2:858" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:871" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:859" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:860" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:862" name="Pixelation" x="0" y="0" width="91" height="26" />
+              </frame>
+              <frame id="2:864" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:866" name="Sampling and mosaic" x="0" y="0" width="139" height="17" />
+                <text id="2:869" name="Today" x="229.46875" y="0" width="44" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:872" name="List Item" x="302.5522155761719" y="0.000244140625" width="272.7421875" height="287.4375">
+            <frame id="2:873" name="Link" x="0" y="0" width="272.7421875" height="287.4375">
+              <frame id="2:885" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:874" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:875" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:877" name="Ordered dithering" x="0" y="0" width="159" height="26" />
+                <frame id="2:878" name="Icon" x="256.7421875" y="4.640625" width="16" height="16" />
+              </frame>
+              <frame id="2:880" name="Container" x="0" y="253.84375" width="272.7421875" height="33.59375">
+                <text id="2:882" name="Dithering and quantisation" x="0" y="0" width="131" height="34" />
+                <text id="2:884" name="2 November 2026" x="142.921875" y="0" width="130" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:886" name="List Item" x="605.1044921875" y="0.000244140625" width="272.7421875" height="287.4375">
+            <frame id="2:887" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:897" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:888" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:889" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:891" name="Chromatic aberration" x="0" y="0" width="192" height="26" />
+              </frame>
+              <frame id="2:892" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:894" name="Optical and lens" x="0" y="0" width="106" height="17" />
+                <text id="2:896" name="3 November 2026" x="142.921875" y="0" width="130" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:898" name="List Item" x="907.6569213867188" y="0.000244140625" width="272.75" height="287.4375">
+            <frame id="2:899" name="Link" x="0" y="0" width="272.75" height="270.6484375">
+              <frame id="2:909" name="Image:margin" x="0" y="0" width="272.75" height="212.5625">
+                <frame id="2:900" name="Image" x="0" y="0" width="272.75" height="204.5625" />
+              </frame>
+              <frame id="2:901" name="Container" x="0" y="220.5625" width="272.75" height="25.2890625">
+                <text id="2:903" name="Particle systems" x="0" y="0" width="151" height="26" />
+              </frame>
+              <frame id="2:904" name="Container" x="0" y="253.8515625" width="272.75" height="16.796875">
+                <text id="2:906" name="3D and particles" x="0" y="0" width="108" height="17" />
+                <text id="2:908" name="4 November 2026" x="142.9296875" y="0" width="130" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:910" name="List Item" x="-0.000091552734375" y="412.4867858886719" width="272.7421875" height="270.6484375">
+            <frame id="2:911" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:920" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:912" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:913" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:915" name="Error-diffusion dithering" x="0" y="0" width="216" height="26" />
+              </frame>
+              <frame id="2:916" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:918" name="Dithering and quantisation" x="0" y="0" width="171" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:921" name="List Item" x="302.5522155761719" y="412.4867858886719" width="272.7421875" height="270.6484375">
+            <frame id="2:922" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:931" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:923" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:924" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:926" name="Moire" x="0" y="0" width="51" height="26" />
+              </frame>
+              <frame id="2:927" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:929" name="Periodic structures and interference" x="0" y="0" width="234" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:932" name="List Item" x="605.1044921875" y="412.4867858886719" width="272.7421875" height="270.6484375">
+            <frame id="2:933" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:942" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:934" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:935" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:937" name="Raymarched metaballs" x="0" y="0" width="210" height="26" />
+              </frame>
+              <frame id="2:938" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:940" name="3D and particles" x="0" y="0" width="108" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:943" name="List Item" x="907.6569213867188" y="412.4867858886719" width="272.75" height="270.6484375">
+            <frame id="2:944" name="Link" x="0" y="0" width="272.75" height="270.6484375">
+              <frame id="2:953" name="Image:margin" x="0" y="0" width="272.75" height="212.5625">
+                <frame id="2:945" name="Image" x="0" y="0" width="272.75" height="204.5625" />
+              </frame>
+              <frame id="2:946" name="Container" x="0" y="220.5625" width="272.75" height="25.2890625">
+                <text id="2:948" name="Posterisation" x="0" y="0" width="121" height="26" />
+              </frame>
+              <frame id="2:949" name="Container" x="0" y="253.8515625" width="272.75" height="16.796875">
+                <text id="2:951" name="Dithering and quantisation" x="0" y="0" width="171" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:954" name="List Item" x="-0.000091552734375" y="808.183837890625" width="272.7421875" height="270.6484375">
+            <frame id="2:955" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:964" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:956" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:957" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:959" name="Film grain" x="0" y="0" width="90" height="26" />
+              </frame>
+              <frame id="2:960" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:962" name="Optical and lens" x="0" y="0" width="106" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:965" name="List Item" x="302.5522155761719" y="808.183837890625" width="272.7421875" height="270.6484375">
+            <frame id="2:966" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:975" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:967" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:968" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:970" name="ASCII art" x="0" y="0" width="80" height="26" />
+              </frame>
+              <frame id="2:971" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:973" name="Sampling and mosaic" x="0" y="0" width="139" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:976" name="List Item" x="605.1044921875" y="808.183837890625" width="272.7421875" height="270.6484375">
+            <frame id="2:977" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:986" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:978" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:979" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:981" name="Height-map relief" x="0" y="0" width="159" height="26" />
+              </frame>
+              <frame id="2:982" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:984" name="Relief and dimensionality" x="0" y="0" width="163" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:987" name="List Item" x="907.6569213867188" y="808.183837890625" width="272.75" height="270.6484375">
+            <frame id="2:988" name="Link" x="0" y="0" width="272.75" height="270.6484375">
+              <frame id="2:997" name="Image:margin" x="0" y="0" width="272.75" height="212.5625">
+                <frame id="2:989" name="Image" x="0" y="0" width="272.75" height="204.5625" />
+              </frame>
+              <frame id="2:990" name="Container" x="0" y="220.5625" width="272.75" height="25.2890625">
+                <text id="2:992" name="Halftone" x="0" y="0" width="80" height="26" />
+              </frame>
+              <frame id="2:993" name="Container" x="0" y="253.8515625" width="272.75" height="16.796875">
+                <text id="2:995" name="Print and screen" x="0" y="0" width="107" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:998" name="List Item" x="-0.000091552734375" y="1203.881103515625" width="272.7421875" height="270.640625">
+            <frame id="2:999" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:1008" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:1000" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:1001" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:1003" name="Fluted glass" x="0" y="0" width="112" height="26" />
+              </frame>
+              <frame id="2:1004" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:1006" name="Distortion" x="0" y="0" width="64" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:1009" name="List Item" x="302.5522155761719" y="1203.881103515625" width="272.7421875" height="270.640625">
+            <frame id="2:1010" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:1019" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:1011" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:1012" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:1014" name="Multiply and screen" x="0" y="0" width="178" height="26" />
+              </frame>
+              <frame id="2:1015" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:1017" name="Compositing and blend modes" x="0" y="0" width="197" height="17" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:1020" name="List Item" x="605.1044921875" y="1203.881103515625" width="272.7421875" height="270.640625">
+            <frame id="2:1021" name="Link" x="0" y="0" width="272.7421875" height="270.640625">
+              <frame id="2:1030" name="Image:margin" x="0" y="0" width="272.7421875" height="212.5546875">
+                <frame id="2:1022" name="Image" x="0" y="0" width="272.7421875" height="204.5546875" />
+              </frame>
+              <frame id="2:1023" name="Container" x="0" y="220.5546875" width="272.7421875" height="25.2890625">
+                <text id="2:1025" name="Motion blur" x="0" y="0" width="104" height="26" />
+              </frame>
+              <frame id="2:1026" name="Container" x="0" y="253.84375" width="272.7421875" height="16.796875">
+                <text id="2:1028" name="Blur" x="0" y="0" width="27" height="17" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1045" name="Section:margin" x="37.810298919677734" y="2091.0537109375" width="1180.390625" height="243.04901123046875">
+        <frame id="2:1031" name="Section" x="0" y="125.04900360107422" width="1180.390625" height="118">
+          <text id="2:1033" name="Backup" x="0" y="25" width="60" height="17" />
+          <frame id="2:1034" name="Container" x="0" y="54" width="159" height="33">
+            <frame id="2:1035" name="Button" x="0" y="0" width="76" height="33">
+              <text id="2:1036" name="Export" x="16" y="8" width="44" height="17" />
+            </frame>
+            <frame id="2:1037" name="Button" x="84" y="0" width="75" height="33">
+              <text id="2:1038" name="Import" x="16" y="8" width="43" height="17" />
+            </frame>
+          </frame>
+          <text id="2:1040" name="Favourites and viewed effects live in this browser" x="0" y="99" width="485" height="19" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2:1046" name="Container" x="1074.109375" y="16" width="166.6171875" height="38">
+      <frame id="2:1047" name="Button" x="24" y="12" width="56" height="14">
+        <frame id="2:1048" name="Text" x="0" y="5" width="4" height="4" />
+        <text id="2:1049" name="Light" x="12" y="0" width="44" height="14" />
+      </frame>
+      <frame id="2:1051" name="Button" x="96" y="12" width="46.6171875" height="14">
+        <text id="2:1052" name="Dark" x="0" y="0" width="35" height="14" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="2:1053" name="Single (Child)" x="1470" y="100" width="1256" height="4503">
+    <frame id="2:1055" name="Article" x="0" y="0" width="1256" height="4532.3603515625">
+      <frame id="2:1287" name="Heading 1:margin" x="37.810298919677734" y="125.04900360107422" width="1180.390625" height="221.04901123046875">
+        <frame id="2:1056" name="Heading 1" x="0" y="109.04900360107422" width="1180.390625" height="112">
+          <text id="2:1057" name="Ordered dithering" x="-0.3046875" y="0" width="1181" height="112" />
+        </frame>
+      </frame>
+      <frame id="2:1288" name="Container:margin" x="37.810298919677734" y="346.0980224609375" width="1180.390625" height="659.4240112304688">
+        <frame id="2:1059" name="Container" x="0" y="109.04900360107422" width="1180.390625" height="550.375">
+          <frame id="2:1060" name="Container" x="0" y="0" width="272.7421875" height="252.1953125">
+            <frame id="2:1061" name="Container" x="0" y="0" width="272.7421875" height="41.1953125">
+              <frame id="2:1062" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1063" name="Favourite" x="0" y="0" width="81" height="17" />
+              </frame>
+              <frame id="2:1065" name="Container" x="0" y="21" width="272.7421875" height="20.1953125">
+                <frame id="2:1066" name="Button" x="0" y="0" width="16" height="16">
+                  <frame id="2:1067" name="Icon" x="0" y="0" width="16" height="16" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:1069" name="Container" x="0" y="65.1953125" width="272.7421875" height="40">
+              <frame id="2:1070" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1071" name="Served" x="0" y="0" width="58" height="17" />
+              </frame>
+              <frame id="2:1072" name="Paragraph" x="0" y="21" width="272.7421875" height="19">
+                <text id="2:1073" name="2 November 2026" x="0" y="0" width="130" height="19" />
+              </frame>
+            </frame>
+            <frame id="2:1075" name="Container" x="0" y="129.1953125" width="272.7421875" height="40">
+              <frame id="2:1076" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1077" name="Collection" x="0" y="0" width="93" height="17" />
+              </frame>
+              <frame id="2:1078" name="Paragraph" x="0" y="21" width="272.7421875" height="19">
+                <text id="2:1079" name="Dithering and quantisation" x="0" y="0" width="226" height="19" />
+              </frame>
+            </frame>
+            <frame id="2:1080" name="Container" x="0" y="193.1953125" width="272.7421875" height="59">
+              <frame id="2:1081" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1082" name="Tags" x="0" y="0" width="38" height="17" />
+              </frame>
+              <frame id="2:1083" name="List" x="0" y="21" width="272.7421875" height="38">
+                <frame id="2:1084" name="List Item" x="0" y="0" width="272.7421875" height="19">
+                  <text id="2:1085" name="post-fx" x="0" y="0" width="61" height="19" />
+                </frame>
+                <frame id="2:1086" name="List Item" x="0" y="19" width="272.7421875" height="19">
+                  <text id="2:1087" name="print" x="0" y="0" width="44" height="19" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:1088" name="Container" x="302.5522155761719" y="0" width="272.7421875" height="206">
+            <frame id="2:1089" name="Container" x="0" y="0" width="272.7421875" height="78">
+              <frame id="2:1090" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1091" name="Synonyms" x="0" y="0" width="84" height="17" />
+              </frame>
+              <frame id="2:1092" name="List" x="0" y="21" width="272.7421875" height="57">
+                <frame id="2:1093" name="List Item" x="0" y="0" width="272.7421875" height="19">
+                  <text id="2:1094" name="Bayer dithering" x="0" y="0" width="130" height="19" />
+                </frame>
+                <frame id="2:1095" name="List Item" x="0" y="19" width="272.7421875" height="19">
+                  <text id="2:1096" name="patterned dithering" x="0" y="0" width="165" height="19" />
+                </frame>
+                <frame id="2:1097" name="List Item" x="0" y="38" width="272.7421875" height="19">
+                  <text id="2:1098" name="halftone dithering" x="0" y="0" width="156" height="19" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="2:1099" name="Container" x="0" y="102" width="272.7421875" height="40">
+              <frame id="2:1100" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1101" name="Renderer" x="0" y="0" width="78" height="17" />
+              </frame>
+              <frame id="2:1102" name="Paragraph" x="0" y="21" width="272.7421875" height="19">
+                <text id="2:1103" name="canvas2d" x="0" y="0" width="70" height="19" />
+              </frame>
+            </frame>
+            <frame id="2:1104" name="Container" x="0" y="166" width="272.7421875" height="40">
+              <frame id="2:1105" name="Text" x="0" y="0" width="272.7421875" height="17">
+                <text id="2:1106" name="Related" x="0" y="0" width="65" height="17" />
+              </frame>
+              <frame id="2:1107" name="List" x="0" y="21" width="272.7421875" height="19">
+                <text id="2:1109" name="chromatic aberration" x="0" y="0" width="174" height="19" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="2:1110" name="Container" x="605.1046142578125" y="0" width="575.2943115234375" height="550.375">
+            <frame id="2:1111" name="Paragraph" x="0" y="0" width="575.2943115234375" height="98">
+              <text id="2:1112" name="It fakes extra tones by comparing each pixel again" x="0" y="0" width="576" height="98" />
+            </frame>
+            <frame id="2:1114" name="Paragraph" x="0" y="98" width="575.2943115234375" height="259">
+              <text id="2:1115" name="Ordered dithering turns a continuous-tone image in" x="0" y="0" width="576" height="259" />
+            </frame>
+            <frame id="2:1116" name="Paragraph" x="0" y="357" width="575.2943115234375" height="195">
+              <text id="2:1117" name="The name comes from the Bayer matrix, published by" x="0" y="0" width="576" height="195" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1289" name="Container:margin" x="37.810298919677734" y="1005.5220336914062" width="1180.3900146484375" height="862.791015625">
+        <frame id="2:1119" name="Container" x="0" y="125.04900360107422" width="1180.3900146484375" height="737.7420043945312">
+          <frame id="2:1120" name="Container" x="-0.00030517578125" y="-0.000091552734375" width="1180.390625" height="737.7421875">
+            <frame id="2:1121" name="Canvas - Animated demonstration of this effect" x="0" y="0" width="1180.390625" height="737.7421875" />
+          </frame>
+          <frame id="2:1122" name="Container" x="884.390625" y="16" width="280" height="705.7421875">
+            <frame id="2:1123" name="Container" x="0" y="0" width="280" height="705.7421875">
+              <frame id="2:1124" name="Container" x="24" y="24" width="232" height="17">
+                <frame id="2:1125" name="Button" x="146" y="0" width="86" height="17">
+                  <text id="2:1126" name="Hide controls" x="0" y="0" width="86" height="17" />
+                </frame>
+              </frame>
+              <frame id="2:1128" name="Container" x="24" y="41" width="232" height="539.375">
+                <frame id="2:1129" name="Container" x="0" y="16" width="232" height="379.578125">
+                  <frame id="2:1130" name="Section" x="0" y="0" width="232" height="154.59375">
+                    <frame id="2:1131" name="Heading 3" x="0" y="0" width="232" height="17">
+                      <text id="2:1132" name="Source" x="0" y="0" width="48" height="17" />
+                    </frame>
+                    <frame id="2:1157" name="Container:margin" x="0" y="17" width="232" height="65.59375">
+                      <frame id="2:1134" name="Container" x="0" y="8" width="232" height="57.59375">
+                        <text id="2:1136" name="Source" x="0" y="8" width="46" height="17" />
+                        <frame id="2:1138" name="Container" x="0" y="32.796875" width="232" height="17">
+                          <frame id="2:1140" name="Radio Button" x="0" y="0" width="54" height="17">
+                            <text id="2:1141" name="gradient" x="0" y="0" width="54" height="17" />
+                          </frame>
+                          <frame id="2:1142" name="Radio Button" x="104.5" y="0" width="30" height="17">
+                            <text id="2:1143" name="type" x="0" y="0" width="30" height="17" />
+                          </frame>
+                          <frame id="2:1144" name="Radio Button" x="185" y="0" width="47" height="17">
+                            <text id="2:1145" name="shapes" x="0" y="0" width="47" height="17" />
+                          </frame>
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="2:1146" name="Container" x="0.0000457763671875" y="82.59375" width="231.99990844726562" height="32">
+                      <frame id="2:1147" name="Label" x="0.0000057220458984375" y="7.6015625" width="56.6796875" height="16.796875">
+                        <text id="2:1148" name="Contrast" x="0" y="0" width="57" height="17" />
+                      </frame>
+                      <frame id="2:1149" name="Range Slider" x="68.67964172363281" y="4" width="116.703125" height="24" />
+                      <frame id="2:1151" name="Output" x="197.38270568847656" y="7.6015625" width="34.6171875" height="16.796875">
+                        <text id="2:1152" name="1.20" x="-0.3828125" y="0" width="35" height="17" />
+                      </frame>
+                    </frame>
+                    <frame id="2:1154" name="Paragraph" x="0" y="114.59375" width="232" height="40">
+                      <text id="2:1155" name="Pushes tones apart before the threshold, which thi" x="0" y="0" width="232" height="32" />
+                    </frame>
+                  </frame>
+                  <frame id="2:1196" name="Section:margin" x="0" y="154.59375" width="232" height="224.984375">
+                    <frame id="2:1159" name="Section" x="0" y="16" width="232" height="208.984375">
+                      <frame id="2:1160" name="Heading 3" x="0" y="17" width="232" height="17">
+                        <text id="2:1161" name="Screen" x="0" y="0" width="48" height="17" />
+                      </frame>
+                      <frame id="2:1194" name="Container:margin" x="0" y="34" width="232" height="40">
+                        <frame id="2:1162" name="Container" x="-0.00020599365234375" y="8" width="232.0004119873047" height="32">
+                          <frame id="2:1163" name="Label" x="0.0000133514404296875" y="7.6015625" width="42.046875" height="16.796875">
+                            <text id="2:1164" name="Matrix" x="0" y="0" width="43" height="17" />
+                          </frame>
+                          <frame id="2:1165" name="Range Slider" x="54.04709243774414" y="4" width="148.640625" height="24" />
+                          <frame id="2:1167" name="Output" x="214.6879119873047" y="7.6015625" width="17.3125" height="16.796875">
+                            <text id="2:1168" name="3×" x="-0.6875" y="0" width="18" height="17" />
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="2:1169" name="Paragraph" x="0" y="74" width="232" height="32">
+                        <text id="2:1170" name="Tile size is 2 to the power of this: 2×2 up to 8×8" x="0" y="0" width="232" height="32" />
+                      </frame>
+                      <frame id="2:1195" name="Container:margin" x="0" y="106" width="232" height="40">
+                        <frame id="2:1171" name="Container" x="0" y="8" width="232" height="32">
+                          <frame id="2:1172" name="Label" x="-0.000019073486328125" y="7.6015625" width="55.1484375" height="16.796875">
+                            <text id="2:1173" name="Cell size" x="0" y="0" width="56" height="17" />
+                          </frame>
+                          <frame id="2:1174" name="Range Slider" x="67.14849853515625" y="4" width="126.8828125" height="24" />
+                          <frame id="2:1176" name="Output" x="206.03143310546875" y="7.6015625" width="25.96875" height="16.796875">
+                            <text id="2:1177" name="4px" x="-0.03125" y="0" width="26" height="17" />
+                          </frame>
+                        </frame>
+                      </frame>
+                      <frame id="2:1178" name="Container" x="-0.0001220703125" y="146" width="232.000244140625" height="32">
+                        <frame id="2:1179" name="Label" x="0" y="7.6015625" width="41.5" height="16.796875">
+                          <text id="2:1180" name="Levels" x="0" y="0" width="42" height="17" />
+                        </frame>
+                        <frame id="2:1181" name="Range Slider" x="53.5001220703125" y="4" width="157.84375" height="24" />
+                        <frame id="2:1183" name="Output" x="223.343994140625" y="7.6015625" width="8.65625" height="16.796875">
+                          <text id="2:1184" name="2" x="-0.34375" y="0" width="9" height="17" />
+                        </frame>
+                      </frame>
+                      <frame id="2:1185" name="Container" x="0" y="178" width="232" height="32">
+                        <frame id="2:1186" name="Label" x="0.0000057220458984375" y="7.6015625" width="37.1171875" height="16.796875">
+                          <text id="2:1187" name="Invert" x="0" y="0" width="38" height="17" />
+                        </frame>
+                        <frame id="2:1188" name="Container" x="49.11716842651367" y="9" width="144.9140625" height="14">
+                          <frame id="2:1189" name="Checkbox" x="118.9140625" y="0" width="26" height="14">
+                            <frame id="2:1190" name="Text" x="-1114.2265625" y="-1530.53125" width="0.00009999999747378752" height="0.00009999999747378752" />
+                          </frame>
+                        </frame>
+                        <frame id="2:1192" name="Output" x="206.03123474121094" y="7.6015625" width="25.96875" height="16.796875">
+                          <text id="2:1193" name="Off" x="-0.03125" y="0" width="26" height="17" />
+                        </frame>
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+                <frame id="2:1215" name="Section:margin" x="0" y="395.578125" width="232" height="143.796875">
+                  <frame id="2:1197" name="Section" x="0" y="16" width="232" height="127.796875">
+                    <frame id="2:1198" name="Heading 3" x="0" y="17" width="232" height="17">
+                      <text id="2:1199" name="Playback" x="0" y="0" width="64" height="17" />
+                    </frame>
+                    <frame id="2:1213" name="Container:margin" x="0" y="34" width="232" height="40">
+                      <frame id="2:1200" name="Container" x="0.0002593994140625" y="8" width="231.99948120117188" height="32">
+                        <frame id="2:1201" name="Label" x="0.000019073486328125" y="7.6015625" width="41.4140625" height="16.796875">
+                          <text id="2:1202" name="Speed" x="0" y="0" width="42" height="17" />
+                        </frame>
+                        <frame id="2:1203" name="Range Slider" x="53.414100646972656" y="4" width="123.3125" height="24" />
+                        <frame id="2:1204" name="Output" x="188.72608947753906" y="5.8515625" width="43.2734375" height="20.296875">
+                          <text id="2:1205" name="1.00×" x="-0.7265625" y="0" width="44" height="21" />
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="2:1207" name="Container" x="0" y="74" width="232" height="54">
+                      <frame id="2:1208" name="Button" x="0" y="16" width="88" height="38">
+                        <text id="2:1209" name="Pause" x="24" y="12" width="40" height="14" />
+                      </frame>
+                      <frame id="2:1211" name="Button" x="194" y="26.5" width="38" height="17">
+                        <text id="2:1212" name="Reset" x="0" y="0" width="38" height="17" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1290" name="Container:margin" x="37.810298919677734" y="1868.313232421875" width="1180.390625" height="1415.5411376953125">
+        <frame id="2:1217" name="Container" x="0" y="125.04900360107422" width="1180.390625" height="1290.4921875">
+          <frame id="2:1218" name="Container" x="605.1046142578125" y="0" width="575.2943115234375" height="1290.489990234375">
+            <frame id="2:1219" name="Heading 2" x="0" y="0" width="575.2943115234375" height="34">
+              <text id="2:1220" name="How it works" x="0" y="0" width="182" height="34" />
+            </frame>
+            <frame id="2:1222" name="Paragraph" x="0" y="34" width="575.2943115234375" height="195">
+              <text id="2:1223" name="Build the threshold tile recursively. Start with a" x="0" y="16" width="576" height="179" />
+            </frame>
+            <frame id="2:1225" name="Paragraph" x="0" y="229" width="575.2943115234375" height="128">
+              <text id="2:1226" name="Rendering is then two lines per pixel. Take the br" x="0" y="0" width="576" height="128" />
+            </frame>
+            <frame id="2:1244" name="Heading 2:margin" x="0" y="357" width="575.2943115234375" height="159.04901123046875">
+              <frame id="2:1227" name="Heading 2" x="0" y="125.04900360107422" width="575.2943115234375" height="34">
+                <text id="2:1228" name="Brand tool lens" x="0" y="0" width="215" height="34" />
+              </frame>
+            </frame>
+            <frame id="2:1229" name="Paragraph" x="0" y="516.0490112304688" width="575.2943115234375" height="119">
+              <text id="2:1230" name="Cell size is the parameter that defines the look, " x="0" y="16" width="576" height="103" />
+            </frame>
+            <frame id="2:1231" name="Paragraph" x="0" y="635.0490112304688" width="575.2943115234375" height="128">
+              <text id="2:1232" name="Matrix order should usually be locked. An 8×8 Baye" x="0" y="0" width="576" height="128" />
+            </frame>
+            <frame id="2:1233" name="Paragraph" x="0" y="763.0490112304688" width="575.2943115234375" height="77">
+              <text id="2:1234" name="In a poster generator for a client, that means one" x="0" y="0" width="576" height="77" />
+            </frame>
+            <frame id="2:1246" name="Heading 2:margin" x="0" y="840.0490112304688" width="575.2943115234375" height="159.04901123046875">
+              <frame id="2:1235" name="Heading 2" x="0" y="125.04900360107422" width="575.2943115234375" height="34">
+                <text id="2:1236" name="Easily confused with" x="0" y="0" width="293" height="34" />
+              </frame>
+            </frame>
+            <frame id="2:1237" name="Paragraph" x="0" y="999.0980224609375" width="575.2943115234375" height="144">
+              <text id="2:1238" name="Error-diffusion dithering (Floyd–Steinberg, Atkins" x="0" y="16" width="576" height="128" />
+            </frame>
+            <frame id="2:1239" name="Paragraph" x="0" y="1143.0980224609375" width="575.2943115234375" height="103">
+              <text id="2:1240" name="Halftone screening uses dots of varying size on a " x="0" y="0" width="576" height="103" />
+            </frame>
+            <frame id="2:1241" name="Paragraph" x="0" y="1246.0980224609375" width="575.2943115234375" height="51">
+              <text id="2:1242" name="Posterisation reduces the number of tones with no " x="0" y="0" width="576" height="51" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1291" name="Container:margin" x="37.810298919677734" y="3283.8544921875" width="1180.390625" height="784.0490112304688">
+        <frame id="2:1248" name="Container" x="0" y="125.04900360107422" width="1180.390625" height="659">
+          <frame id="2:1249" name="Heading 2" x="0" y="0" width="1180.390625" height="34">
+            <text id="2:1250" name="Copy this effect" x="0" y="0" width="226" height="34" />
+          </frame>
+          <frame id="2:1263" name="Section:margin" x="0" y="34" width="1180.390625" height="625">
+            <frame id="2:1251" name="Section" x="0" y="16" width="1180.390625" height="609">
+              <frame id="2:1252" name="Container" x="24" y="24" width="1132.390625" height="33">
+                <frame id="2:1253" name="Code view" x="0" y="8" width="178" height="17">
+                  <frame id="2:1254" name="Radio Button" x="0" y="0" width="111" height="17">
+                    <text id="2:1255" name="Standalone page" x="0" y="0" width="111" height="17" />
+                  </frame>
+                  <frame id="2:1256" name="Radio Button" x="127" y="0" width="51" height="17">
+                    <text id="2:1257" name="demo.js" x="0" y="0" width="51" height="17" />
+                  </frame>
+                </frame>
+                <frame id="2:1258" name="Button" x="1066.390625" y="0" width="66" height="33">
+                  <text id="2:1259" name="Copy" x="16" y="8" width="34" height="17" />
+                </frame>
+              </frame>
+              <frame id="2:1260" name="Code Block" x="24" y="73" width="1132.390625" height="512">
+                <text id="2:1261" name="&lt;!doctype html&gt; &lt;html lang=&quot;en-GB&quot;&gt; &lt;head&gt; &lt;meta c" x="0" y="0" width="765" height="10354" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="2:1292" name="Container:margin" x="37.810298919677734" y="4067.903564453125" width="1180.390625" height="339.4079895019531">
+        <frame id="2:1264" name="Container" x="0" y="125.04900360107422" width="1180.390625" height="214.35899353027344">
+          <frame id="2:1265" name="Container" x="605.1046142578125" y="-0.00019073486328125" width="575.2943115234375" height="214.359375">
+            <frame id="2:1266" name="Heading 2" x="0" y="0" width="575.2943115234375" height="34">
+              <text id="2:1267" name="Sources" x="0" y="0" width="118" height="34" />
+            </frame>
+            <frame id="2:1268" name="List" x="0" y="34" width="575.2943115234375" height="182">
+              <frame id="2:1269" name="List Item" x="0" y="16" width="575.2943115234375" height="64">
+                <frame id="2:1270" name="Link" x="0" y="0" width="499" height="51">
+                  <text id="2:1271" name="Ditherpunk — The article I wish I had about monoch" x="0" y="0" width="499" height="51" />
+                </frame>
+                <frame id="2:1273" name="Text" x="515" y="0" width="61" height="51">
+                  <text id="2:1274" name="article" x="0" y="0" width="61" height="21" />
+                </frame>
+              </frame>
+              <frame id="2:1276" name="List Item" x="0" y="92" width="575.2943115234375" height="39">
+                <frame id="2:1277" name="Link" x="0" y="0" width="185" height="26">
+                  <text id="2:1278" name="Ordered dithering" x="0" y="0" width="185" height="26" />
+                </frame>
+                <frame id="2:1279" name="Text" x="514.2943115234375" y="0" width="61" height="26">
+                  <text id="2:1280" name="article" x="0" y="0" width="61" height="21" />
+                </frame>
+              </frame>
+              <frame id="2:1281" name="List Item" x="0" y="143" width="575.2943115234375" height="39">
+                <frame id="2:1282" name="Link" x="0" y="0" width="218" height="26">
+                  <text id="2:1283" name="Dithering on the GPU" x="0" y="0" width="218" height="26" />
+                </frame>
+                <frame id="2:1284" name="Text" x="505.2943115234375" y="0" width="70" height="26">
+                  <text id="2:1285" name="tutorial" x="0" y="0" width="70" height="21" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="2:1293" name="Container" x="1074.109375" y="16" width="166.6171875" height="38">
+      <frame id="2:1294" name="Button" x="24" y="12" width="56" height="14">
+        <frame id="2:1295" name="Text" x="0" y="5" width="4" height="4" />
+        <text id="2:1296" name="Light" x="12" y="0" width="44" height="14" />
+      </frame>
+      <frame id="2:1298" name="Button" x="96" y="12" width="46.6171875" height="14">
+        <text id="2:1299" name="Dark" x="0" y="0" width="35" height="14" />
+      </frame>
+    </frame>
+    <frame id="2:1300" name="Link" x="561.5" y="16" width="133" height="40">
+      <frame id="2:1301" name="Icon" x="24" y="12" width="16" height="16" />
+      <text id="2:1303" name="Archive" x="48" y="13" width="61" height="14" />
+    </frame>
+  </frame>
+</section>
+IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design.

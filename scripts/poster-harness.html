@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en-GB">
+	<head>
+		<meta charset="utf-8" />
+		<title>Poster harness</title>
+		<style>
+			html,
+			body {
+				margin: 0;
+				background: #fff;
+			}
+			canvas {
+				display: block;
+				inline-size: 100vw;
+				block-size: 100vh;
+			}
+		</style>
+	</head>
+	<body>
+		<canvas id="canvas"></canvas>
+		<script type="module">
+			// Renders one demo to a fixed virtual time, off the real clock, so every
+			// poster is deterministic. Driven by scripts/posters.mjs; not part of the site.
+			const query = new URLSearchParams(location.search);
+			const slug = query.get('slug');
+			const seconds = Number(query.get('t') ?? 2.5);
+			const dpr = Number(query.get('dpr') ?? 2);
+			const step = 1 / 60;
+
+			const canvas = document.getElementById('canvas');
+			canvas.width = Math.round(innerWidth * dpr);
+			canvas.height = Math.round(innerHeight * dpr);
+
+			const module = await import(/* @vite-ignore */ `/src/lib/effects/${slug}/demo.js`);
+			const values = Object.fromEntries(
+				Object.entries(module.params).map(([key, spec]) => [key, spec.default])
+			);
+			const instance = module.create(canvas, values);
+			instance.resize?.(canvas.width, canvas.height);
+
+			const pointer = {
+				x: canvas.width * 0.5,
+				y: canvas.height * 0.5,
+				vx: 0,
+				vy: 0,
+				down: false,
+				inside: false
+			};
+
+			let time = 0;
+			// The last frame must land inside a rAF callback, or the compositor may
+			// screenshot a cleared WebGL backbuffer.
+			requestAnimationFrame(function tick() {
+				instance.frame(time, pointer);
+				if (time >= seconds) {
+					window.__posterReady = true;
+					return;
+				}
+				time = Math.min(seconds, time + step);
+				requestAnimationFrame(tick);
+			});
+		</script>
+	</body>
+</html>
